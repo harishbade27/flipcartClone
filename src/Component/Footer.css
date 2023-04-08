@@ -1,0 +1,47 @@
+p{
+    font-size: 12px;
+}
+span {
+    opacity: 0.8;
+    font-weight: 300;
+    font-size: 14px;
+}
+h6{
+    opacity: 0.7;
+    -webkit-text-stroke-width: 0.6px;
+    font-size: 14px;
+}
+p{
+ opacity: 0.8;
+}
+#grid  div {
+    display: grid;
+
+
+}
+#in{
+    display: inline;
+}
+.d-grid a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 3px 6px;
+    
+}
+.d-grid a:hover{
+    text-decoration: underline;
+}
+#footerbody{
+    background-color: rgb(15, 15, 56);
+    padding: 20px 49px;
+}
+.d-grid span{
+    color: grey;
+    font-weight: bold;
+    
+}
+#border{
+    border-right: .2px solid gray;
+   
+}

@@ -1,0 +1,22 @@
+.carousel-control-next-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 10rem;
+    background-repeat: no-repeat;
+    background-position: 57%;
+    background-size: 100% 100%;
+    margin-right: -179px;
+    background-color:white;
+
+}
+
+.carousel-control-prev-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 10rem;
+    background-repeat: no-repeat;
+    background-position: 57%;
+    background-size: 100% 100%;
+    margin-left: -160px;
+    
+}

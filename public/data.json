@@ -1,0 +1,76 @@
+ [
+    {
+        "id":1,
+        "image":"https://rukminim1.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70",
+        "name":"Printers",
+        "price":"From ₹3999",
+         "prd":"HP"
+
+    },
+    {
+        "id":2,
+        "image":"https://rukminim1.flixcart.com/image/200/200/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70",
+        "name":"Projectors",
+        "price":"From ₹9999",
+         "prd":"ZEBRONIC"
+
+    },
+    {
+        "id":3,
+        "image":"https://rukminim1.flixcart.com/image/200/200/kynb6vk0/monitor/1/n/s/lf22t354fhwxxl-full-hd-22-lf22t354fhwxxl-samsung-original-imagats2rjbg9uhv.jpeg?q=70",
+        "name":"Monitors",
+        "price":"From ₹9999",
+         "prd":"SAMSUNG"
+
+    },
+    {
+        "id":4,
+        "image":"https://rukminim1.flixcart.com/image/200/200/l432ikw0/headphone/n/g/n/-original-imagf2yzeffezg4g.jpeg?q=70",
+        "name":"Gaming TWS",
+        "price":"From ₹899",
+         "prd":"shop Now"
+    },
+    {
+        "id":5,
+        "image":"https://rukminim1.flixcart.com/image/200/200/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+        "name":"Camera",
+        "price":"From ₹6,999",
+         "prd":"Cannon ZX1 Pro"
+    },
+    {
+        "id":6,
+        "image":"https://rukminim1.flixcart.com/image/200/200/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg?q=70",
+        "name":"Wardrobes",
+        "price":"From ₹4,999",
+         "prd":"2,3,1 Door"
+    },
+    {
+        "id":7,
+        "image":"https://rukminim1.flixcart.com/image/200/200/khuvxjk0-0/mouse/l/t/6/zeb-transformer-m-zebronics-original-imafxrugfftphbkk.jpeg?q=70",
+        "name":"Gaming Mouse",
+        "price":"From ₹6,999",
+         "prd":"Gaming"
+    },
+    {
+        "id":8,
+        "image":"https://rukminim1.flixcart.com/image/200/200/jn3hocw0/microphone/d/c/e/boya-by-m1-3-5mm-electret-condenser-microphone-with-1-4-adapter-original-imaf9v2jhhakavks.jpeg?q=70",
+        "name":"MicroPhone",
+        "price":"From ₹3999",
+         "prd":"Explore NOw"
+    },
+    {
+        "id":9,
+        "image":"https://rukminim1.flixcart.com/image/200/200/kg40k280/tablet/a/m/m/lenovo-za6f0032in-original-imafwfazwxebyhvf.jpeg?q=70",
+        "name":"Lenovo Tabs",
+        "price":"From ₹7,999",
+         "prd":"Top Rated "
+    },
+    {
+        "id":10,
+        "image":"https://rukminim1.flixcart.com/image/200/200/kebpqq80/musical-keyboard/j/h/h/37-keys-nj-fashion-original-imafvyhrjeuah2ge.jpeg?q=70",
+        "name":"Musical Keyboard",
+        "price":"From ₹5,999",
+         "prd":"Rebox"
+    }
+
+]

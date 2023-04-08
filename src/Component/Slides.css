@@ -1,0 +1,58 @@
+
+h1{
+    color: red;
+}
+
+#img1{
+    width: 80%;
+    height: 200px;
+    z-index: -999;
+    position: relative;
+}
+.Bt{
+    margin-left:60px;
+    margin-top: 20px;
+   padding: 6px 12px;
+}
+.cssPrice{
+    color: rgb(103, 192, 103);
+    font-size: 16px;
+    font-weight:bolder;
+    opacity: 1;
+}
+.cssPrd{
+    font-size: 15px;
+    margin-top: -3px;
+    letter-spacing: 1px;
+
+}
+
+.slick-next:before{
+    color:black;
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+    position:absolute;
+    right: 33px;
+    top: -39px;
+}
+.slick-prev:before{
+    color:black;
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+    z-index: 99999;
+    position:absolute;
+    right: -3px;
+    top: -43px;
+}
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before
+{
+    opacity:-0.75;
+}
+#Sliders{
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+    border: 2px solid gray;
+    height: 40px;
+}
